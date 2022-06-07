@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/nivriti.pandey/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3605024595.index
+922464515.index
+1924484980.index
+1842108921.index
+3060924363.index
+1170940769.index
